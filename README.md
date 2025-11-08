@@ -61,6 +61,9 @@ Planner 5D DIY makes design creativity accessible, combining **AI generation**, 
 - Social integration for community inspiration.  
 
 ---
+## User Flow
+
+![Alt text](https://github.com/jidelwl-collab/5D-Planner-DIY/blob/03e5876f181f3c1173c4af4df92beca82c793ddb/Generated%20Board.png)
 
 ## 🧠 How It Works  
 
