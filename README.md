@@ -74,5 +74,7 @@ Planner 5D DIY makes design creativity accessible, combining **AI generation**, 
 
 ---
 
-## 🧩 User Flow Diagram  
+## ✨ Acknowledgements  
+
+Inspired by [Planner 5D](https://planner5d.com), community design tools, and open-source AI interior design frameworks. 
 
