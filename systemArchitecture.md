@@ -85,3 +85,4 @@ The system is built on a **modular, cloud-based architecture** designed for scal
 - AI models hosted via Hugging Face / Replicate / custom cloud GPU servers  
 
 ---
+![Alt text](https://github.com/jidelwl-collab/5D-Planner-DIY/blob/f135f8becf785a95c257a419e3673103bbbebdd4/ChatGPT%20Image%20Nov%208%2C%202025%2C%2010_47_17%20PM.png)
