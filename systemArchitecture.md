@@ -86,3 +86,5 @@ The system is built on a **modular, cloud-based architecture** designed for scal
 
 ---
 ![Alt text](https://github.com/jidelwl-collab/5D-Planner-DIY/blob/f135f8becf785a95c257a419e3673103bbbebdd4/ChatGPT%20Image%20Nov%208%2C%202025%2C%2010_47_17%20PM.png)
+## LO-FI DESIGNS
+![Alt text](https://github.com/jidelwl-collab/5D-Planner-DIY/blob/207f9566ad9202016d81f12177738bccc7f71019/Lofi%20designs.png)
